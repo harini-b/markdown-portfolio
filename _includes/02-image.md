@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Panduranga Vittala] (C:\Users\rangah3\Desktop\Panduranga Vittal.png)
