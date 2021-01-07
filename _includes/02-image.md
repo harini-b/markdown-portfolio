@@ -1,1 +1,1 @@
-![Panduranga Vittala] (C:\Users\rangah3\Desktop\Panduranga Vittal.png)
+![YAKTOCAT] (https://octodex.github.com/images/yaktocat.png)
